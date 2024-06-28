@@ -34,4 +34,20 @@ export default {
   - Step 1: yarn create project
   - Step 2: yarn add -D vite
 
-2. 
+2.
+2. Config elsint: 
+  "no-console": 1,
+    "no-trailing-spaces": 1,
+    "no-multi-spaces": 1,
+    "no-multiple-empty-lines": 1,
+    "space-before-blocks": ["error", "always"],
+    "object-curly-spacing": [1, "always"],
+    "indent": ["warn", 2],
+    "semi": [1, "always"],
+    "quotes": ["error", "double"],
+    "array-bracket-spacing": 1,
+    "linebreak-style": 0,
+    "keyword-spacing": 1,
+    "comma-dangle": 1,
+    "comma-spacing": 1,
+    "arrow-spacing": 1,
