@@ -51,7 +51,7 @@ export default {
     "comma-spacing": 1,
     "arrow-spacing": 1,
 
-3. Install mui and config css base line
+3. Install mui and config css base line, delete index.css, main.css...
 
 4. config import: enter the file vite.config.ts and add codes:
 resolve: {
@@ -64,3 +64,5 @@ resolve: {
   "paths": {
       "~/*": ["./src/*"]
     },
+
+5. Install redux, reudxtoolkit
