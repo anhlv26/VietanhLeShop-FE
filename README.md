@@ -64,3 +64,5 @@ resolve: {
   "paths": {
       "~/*": ["./src/*"]
     },
+
+5. Install redux, reudxtoolkit
