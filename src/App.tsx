@@ -7,7 +7,7 @@ function App() {
 
   return (
     <Box>
-      hello
+      Lo lo lo
     </Box>
   );
 }

@@ -52,3 +52,15 @@ export default {
     "arrow-spacing": 1,
 
 3. Install mui and config css base line
+
+4. config import: enter the file vite.config.ts and add codes:
+resolve: {
+    alias: [
+      { find: '~', replacement: '/src' }
+    ]
+  }
+
+  enter the file tsconfig.app.json and add code:
+  "paths": {
+      "~/*": ["./src/*"]
+    },
