@@ -66,3 +66,6 @@ resolve: {
     },
 
 5. Install redux, reudxtoolkit
+
+6. Install and config react-router-dom, the library help for Page transition:
+create folder routes
