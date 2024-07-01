@@ -5,7 +5,7 @@ import { store } from "~/redux/store";
 import { ThemeProvider } from "@emotion/react";
 import { CssBaseline } from "@mui/material";
 import App from "~/App";
-import theme from "./theme";
+import theme from "~/theme";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>

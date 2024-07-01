@@ -73,3 +73,5 @@ create folder routes
 7. Config theme for project
 step 1: go to github of example project mui then clone file theme.tsx
 step 2: import it into main.tsx
+
+
